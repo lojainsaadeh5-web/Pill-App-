@@ -48,3 +48,7 @@ android/key.properties
 android/local.properties
 *.jks
 *.keystore
+
+lib/firebase_options.dart
+
+lib/firebase_options.dart
